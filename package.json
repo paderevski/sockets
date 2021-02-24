@@ -1,0 +1,19 @@
+{
+  "name": "sockets",
+  "version": "1.0.0",
+  "description": "testbed for socketio work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/paderevski/sockets.git"
+  },
+  "author": "patrick white",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paderevski/sockets/issues"
+  },
+  "homepage": "https://github.com/paderevski/sockets#readme"
+}
